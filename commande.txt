@@ -1,0 +1,13 @@
+git init
+
+git lfs install
+
+git lfs track "VI"
+
+git add .
+
+git commit -m "Add VI folder with large files using Git LFS"
+
+git remote add origin https://github.com/Virus-info1/programme.git
+
+git push -u origin main
