@@ -1,1 +1,27 @@
+<<<<<<< HEAD
 VI filter=lfs diff=lfs merge=lfs -text
+=======
+VI/* filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+VI filter=lfs diff=lfs merge=lfs -text
+>>>>>>> afcc7ad956bbf1c183a05f64981526e19313d6c7
+>>>>>>> 022583383d8bce189b202e078b00eb4f8db895f2
+>>>>>>> 43baf5b1a7f4a4ac8a139f039bd1ae22f4e2caf9
+>>>>>>> c58019026ff5df023eaeadc90a611c12adc69538
+>>>>>>> 2ba189bc29a24ebb86b8457f9f4eb276972a8cb2
+>>>>>>> ee1866fc67893bd83cc46e2226af35be206b4a9e
+>>>>>>> 25b084f05c97c91a4c5316d65be614e86e46f0b6
+>>>>>>> 0560cfad9a47cd37cd265f6d6dafd734e875a50f
