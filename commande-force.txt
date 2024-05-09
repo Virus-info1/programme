@@ -1,0 +1,34 @@
+
+
+
+
+
+
+
+
+
+git init
+
+git lfs install
+
+git branch -m master main
+
+git lfs track "VI"
+
+git remote add origin https://github.com/Virus-info1/programme.git
+
+git push -u origin main
+
+git add .
+git commit -m "Add java_user.7z using Git LFS"
+
+git pull origin main
+git push -u origin main
+
+
+
+               
+
+git push origin --force
+
+git push -u origin main --force
