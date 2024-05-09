@@ -1,7 +1,7 @@
 setlocal enabledelayedexpansion
 set /a compteur=0
 :1
-if not !compteur! == 2 (
+if not !compteur! == 1 (
   set /a compteur=%compteur%+1
   cd C:/000
   git init
