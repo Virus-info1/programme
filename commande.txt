@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+>>>>>>> afcc7ad956bbf1c183a05f64981526e19313d6c7
+git init
+
+git lfs install
+
+<<<<<<< HEAD
+git lfs track "VI"
+
+git add .
+
+git commit -m "Add VI folder with large files using Git LFS"
+
+git remote add origin https://github.com/Virus-info1/programme.git
+
+git push -u origin main
+=======
+git branch -m master main
+
+git lfs track "VI"
+
+git remote add origin https://github.com/Virus-info1/programme.git
+
+git push -u origin main
+
+git add .
+git commit -m "Add java_user.7z using Git LFS"
+
+git push -u origin main
+
+
+
+               
+git pull origin main
+git push origin --force
+
+git push -u origin main --force
+>>>>>>> afcc7ad956bbf1c183a05f64981526e19313d6c7
