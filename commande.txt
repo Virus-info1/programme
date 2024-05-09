@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 cd C:/000
 git init
 git lfs install
@@ -13,6 +14,8 @@ git merge origin/main --allow-unrelated-histories
 git push -u origin main
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> ee1866fc67893bd83cc46e2226af35be206b4a9e
 =======
 
 
@@ -60,4 +63,7 @@ git push origin --force
 
 git push -u origin main --force
 >>>>>>> afcc7ad956bbf1c183a05f64981526e19313d6c7
+<<<<<<< HEAD
+>>>>>>> ee1866fc67893bd83cc46e2226af35be206b4a9e
+=======
 >>>>>>> ee1866fc67893bd83cc46e2226af35be206b4a9e
