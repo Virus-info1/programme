@@ -1,3 +1,4 @@
+setlocal enabledelayedexpansion
 set /a compteur=0
 :1
 if not !compteur! == 2 (
